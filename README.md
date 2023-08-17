@@ -9,7 +9,7 @@ Safety Checks: Ensures the integrity and security of the apps you're sideloading
 Logs & Reports: Detailed logs to help you troubleshoot any issues.
 Installation
 Clone the repository:
-git clone https://github.com/your_username/rookie-sideloader.git'
+git clone https://github.com/doc888888/rookie-sideloader.git'
 Navigate to the project directory:
 cd rookie-sideloader
 Install the required dependencies:
